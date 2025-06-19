@@ -1,0 +1,19 @@
+2025-06-11 20:00:38.250 +05:00 [INF] [ThreadId:19] NBomber 6.1.0 started a new session: 2025-06-11_15.00.14_session_ea148cd6
+2025-06-11 20:00:38.329 +05:00 [INF] [ThreadId:19] NBomber started as single node
+2025-06-11 20:00:38.333 +05:00 [INF] [ThreadId:19] License validation....
+2025-06-11 20:00:38.335 +05:00 [WRN] [ThreadId:19] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
+2025-06-11 20:00:38.520 +05:00 [INF] [ThreadId:19] Reports folder: C:\Users\HAMZA SIRAJ\source\repos\SQA_Testing_Project\SQA_Testing_Project\bin\Debug\net8.0\Reports1
+2025-06-11 20:00:38.521 +05:00 [INF] [ThreadId:19] Plugin loaded: HttpMetricsPlugin
+2025-06-11 20:00:38.522 +05:00 [INF] [ThreadId:19] Reporting sinks: no reporting sinks were loaded
+2025-06-11 20:00:38.523 +05:00 [INF] [ThreadId:19] Starting init...
+2025-06-11 20:00:38.530 +05:00 [INF] [ThreadId:19] Start init plugin: HttpMetricsPlugin
+2025-06-11 20:00:38.546 +05:00 [INF] [ThreadId:19] Target scenarios: Load Test with Playwright in ParaBank Application
+2025-06-11 20:00:38.549 +05:00 [INF] [ThreadId:19] Init finished
+2025-06-11 20:00:38.728 +05:00 [INF] [ThreadId:19] Starting warm up...
+2025-06-11 20:00:38.730 +05:00 [INF] [ThreadId:19] Warm up for scenarios: Load Test with Playwright in ParaBank Application
+2025-06-11 20:00:38.736 +05:00 [INF] [ThreadId:19] Warm up duration: 00:00:30
+2025-06-11 20:01:09.794 +05:00 [INF] [ThreadId:8] Starting bombing...
+2025-06-11 20:01:50.027 +05:00 [INF] [ThreadId:18] Stopping scenarios...
+2025-06-11 20:01:50.032 +05:00 [INF] [ThreadId:18] Calculating final statistics...
+2025-06-11 20:01:50.669 +05:00 [INF] [ThreadId:18] Reports saved in folder: C:\Users\HAMZA SIRAJ\source\repos\SQA_Testing_Project\SQA_Testing_Project\bin\Debug\net8.0\Reports1
+2025-06-11 20:01:50.670 +05:00 [WRN] [ThreadId:18] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.

@@ -1,0 +1,91 @@
+{
+  "uuid": "98dc42b7-a61d-49ba-9ab0-058122c01973",
+  "historyId": "f28b24768e3de592571d51e6d1bba9f0",
+  "testCaseId": "95bcfaf6638c46c534f13ad6123f1613",
+  "fullName": "SQA_Testing_Project/Features/Test1/user will Register The RegisterPage",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LAPTOP-LIES"
+    },
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.Test1"
+    },
+    {
+      "name": "feature",
+      "value": "Test1"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "user will Register The RegisterPage",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given User navigate to the url",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749653987022,
+      "stop": 1749654019279
+    },
+    {
+      "name": "When User Register the Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749654019283,
+      "stop": 1749654024241
+    },
+    {
+      "name": "Then Page Closed",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749654024246,
+      "stop": 1749654024354
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1749653987011,
+  "stop": 1749654024361
+}

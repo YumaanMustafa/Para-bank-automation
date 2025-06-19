@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HAMZA SIRAJ\\source\\repos\\SQA_Testing_Project\\SQA_Testing_Project\\SQA_Testing_Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HAMZA SIRAJ\\source\\repos\\SQA_Testing_Project\\SQA_Testing_Project\\SQA_Testing_Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HAMZA SIRAJ\\source\\repos\\SQA_Testing_Project\\SQA_Testing_Project\\SQA_Testing_Project.csproj",
+        "projectName": "SQA_Testing_Project",
+        "projectPath": "C:\\Users\\HAMZA SIRAJ\\source\\repos\\SQA_Testing_Project\\SQA_Testing_Project\\SQA_Testing_Project.csproj",
+        "packagesPath": "C:\\Users\\HAMZA SIRAJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HAMZA SIRAJ\\source\\repos\\SQA_Testing_Project\\SQA_Testing_Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HAMZA SIRAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\BSSE 6A\\Software Testing\\Funtional": {},
+          "D:\\BSSE 6A\\Web Engneering\\package_of_MVC": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Allure.Reqnroll": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "AspectInjector": {
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[2.8.2, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Cucumber.CucumberExpressions": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Gherkin": {
+              "target": "Package",
+              "version": "[32.1.1, )"
+            },
+            "MSTest.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Bcl.HashCode": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[17.14.0-preview-25107-01, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.0-preview-25107-01, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "target": "Package",
+              "version": "[8.0.0-preview.7.23375.6, )"
+            },
+            "Microsoft.NETCore.Targets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Playwright": {
+              "target": "Package",
+              "version": "[1.52.0, )"
+            },
+            "Microsoft.Playwright.NUnit": {
+              "target": "Package",
+              "version": "[1.52.0, )"
+            },
+            "Microsoft.Playwright.TestAdapter": {
+              "target": "Package",
+              "version": "[1.52.0, )"
+            },
+            "Microsoft.TestPlatform.ObjectModel": {
+              "target": "Package",
+              "version": "[17.14.0-preview-25107-01, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[17.14.0-preview-25107-01, )"
+            },
+            "MimeTypesMap": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "NBomber": {
+              "target": "Package",
+              "version": "[6.1.0-beta.7, )"
+            },
+            "NBomber.Contracts": {
+              "target": "Package",
+              "version": "[6.1.0-beta.4, )"
+            },
+            "NBomber.Http": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Reqnroll": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Reqnroll.NUnit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Reqnroll.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[10.0.0-preview.4.25258.110, )"
+            },
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Collections.Specialized": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Diagnostics.Debug": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Globalization": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Globalization.Extensions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.Pipelines": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Reflection.Metadata": {
+              "target": "Package",
+              "version": "[10.0.0-preview.4.25258.110, )"
+            },
+            "System.Reflection.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Resources.ResourceManager": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Runtime.Handles": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "System.Threading": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
